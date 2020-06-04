@@ -1,1 +1,1 @@
-## It was students list v2 repo
+## fireship-ngrx-basic
