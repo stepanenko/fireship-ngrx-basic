@@ -28,4 +28,8 @@ export class AppComponent {
   frenchMessage() {
     this.store.dispatch({ type: 'FRENCH' });
   }
+
+  englishMessage() {
+    this.store.dispatch({ type: 'ENGLISH' });
+  }
 }

@@ -3,3 +3,5 @@
 Author: **Jeff Delaney (Fireship)**
 
 Video: **[YouTube](https://www.youtube.com/watch?v=f97ICOaekNU)**
+
+Progress: **The Most Simple Ngrx Example done**
