@@ -5,7 +5,7 @@ Author: **Jeff Delaney (Fireship)**
 Video: **[YouTube](https://www.youtube.com/watch?v=f97ICOaekNU)**
 
 ### Progress:
-**- The Most Simple Ngrx Example (done)**
-**- A More Advanced Example (done)**
+** - The Most Simple Ngrx Example (done)**
+** - A More Advanced Example (done)**
 - Add Jeff's styles from Github
 - Debugging with Redux DevTools for Chrome
