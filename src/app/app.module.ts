@@ -4,11 +4,11 @@ import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 import { StoreModule } from '@ngrx/store';
 
-import { simpleReducer } from './simple.reducer';
+import { simpleReducer } from './reducers/simple.reducer';
 import { postReducer } from './reducers/post.reducer';
 
 import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
+import { AppComponent } from './views/app.component';
 
 @NgModule({
   declarations: [
