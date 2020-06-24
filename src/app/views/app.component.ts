@@ -41,6 +41,7 @@ export class AppComponent {
 
   editText() {
     this.store.dispatch(new PostActions.EditText(this.text));
+    this.text = '';
   }
 
   upvote() {
@@ -52,6 +53,6 @@ export class AppComponent {
   }
 
   resetPost() {
-    this.store.dispatch(new PostActions.Reset())
+    this.store.dispatch(new PostActions.Reset());
   }
 }
